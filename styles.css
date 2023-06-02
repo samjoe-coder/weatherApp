@@ -1,0 +1,51 @@
+body {
+    background-color: #f4f4f4;
+  }
+
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+
+  h1 {
+    text-align: center;
+    margin-top: 0;
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  .weather-info {
+    margin-top: 20px;
+  }
+
+  .weather-info p {
+    margin: 0;
+    font-weight: bold;
+  }
